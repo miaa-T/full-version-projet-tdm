@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "43798186905",
+    "project_id": "projet-tdm-de3fc",
+    "storage_bucket": "projet-tdm-de3fc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43798186905:android:bb61f468d17a763bf92108",
+        "android_client_info": {
+          "package_name": "com.example.doccur"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_Q9vqToGn51mycXkM_gAxu6lEufpCmj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
